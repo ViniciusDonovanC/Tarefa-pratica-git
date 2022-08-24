@@ -1,5 +1,6 @@
 # Calculo IMC
 def imc():
+
     p = float(input('Informe seu Peso(Kg):'))
     h = float(input('Informe sua Altura(m):'))
 
@@ -19,7 +20,6 @@ def fatorial(num):
 
     return num
 
-x = input()
+x = int(input("Insira um número para caluclar o fatorial: "))
 
-print 'fatorial: ', fatorial(x)
-
+print ('fatorial: ', fatorial(x))
