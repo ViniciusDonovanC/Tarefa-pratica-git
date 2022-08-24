@@ -1,6 +1,6 @@
 # Tarefa-pratica-gith
 
-Gabriel Mendes Rodrigues - 
-Vinicius Donovan Correa Silva - 
+Gabriel Mendes Rodrigues - Calculo de IMC
+Vinicius Donovan Correa Silva - Gerente do Projeto
 Daniel Bolotaro Lopes - 
-Luís Otávio Rockenbach de Aquino - 
+Luís Otávio Rockenbach de Aquino - Calculo de Fatorial
