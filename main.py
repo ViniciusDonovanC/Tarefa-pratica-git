@@ -1,12 +1,11 @@
-# coding=utf-8
-# This is a sample Python script.
+# Calculo IMC
+def imc():
+    p = float(input('Informe seu Peso(Kg):'))
+    h = float(input('Informe sua Altura(m):'))
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+    x = p / (h*h)
+
+    return print(f'Seu IMC é {x}')
 
 
-# Press the green button in the gutter to run the script.
-
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+imc()
